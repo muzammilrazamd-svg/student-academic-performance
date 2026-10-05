@@ -2,6 +2,10 @@
 
 A complete Data Analytics and Visualization (DAV) lab project that demonstrates end-to-end data science workflows using synthetic student academic data. This project showcases data generation, cleaning, exploratory analysis, visualization, and machine learning prediction through an interactive Streamlit web application.
 
+## Live Demo
+
+Try the deployed Streamlit app: [Student Academic Performance Analyzer](https://student-academic-performance.streamlit.app/).
+
 ## Description
 
 This project provides a comprehensive analysis of student academic performance using a synthetic dataset of 1200 student records. It demonstrates the complete data analytics pipeline from data generation and cleaning to advanced visualization and predictive modeling. The project serves as an educational tool for understanding how various factors like study hours, attendance, and extracurricular activities impact student performance.
